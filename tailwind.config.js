@@ -5,17 +5,7 @@ module.exports = {
       
       transitionProperty: {
         'on-menu-click': 'all 1s ease',
-      },
-      
-      height:{
-        'introLeft':"700px"
-      },
-      
-      width:{
-        'introLeft':"700px"
-      },
-
-      
+      },     
       
     },
   },

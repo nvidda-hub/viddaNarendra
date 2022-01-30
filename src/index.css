@@ -1,5 +1,34 @@
 @tailwind base;
 @tailwind components;
+
+/* for left part of intro */
+@screen xl{
+  .intro-left-xl-and-beyond{
+    @apply flex bg-rose-600 rounded-full w-[700px] h-[700px] items-end justify-center float-left py-6 my-60;
+  }
+  
+
+  
+}
+
+@screen sm{
+  .intro-left-xl-and-beyond{
+    @apply flex bg-rose-600 rounded-full w-[300px] h-[300px] items-end justify-center float-left py-6 my-60;
+  }
+}
+
+@screen md{
+  .intro-left-xl-and-beyond{
+    @apply flex bg-rose-600 rounded-full w-[400px] h-[400px] items-end justify-center float-left py-6 my-60;
+  }
+}
+
+@screen lg{
+  .intro-left-xl-and-beyond{
+    @apply flex bg-rose-600 rounded-full w-[500px] h-[500px] items-end justify-center float-left py-6 my-60;
+  }
+}
+
 @tailwind utilities;
 
 
