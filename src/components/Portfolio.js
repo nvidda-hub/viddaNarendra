@@ -78,7 +78,7 @@ function Portfolio() {
   console.log('data : ', data)
 
   return <div id='portfolio' className='flex flex-col items-center bg-white w-screen h-[calc(100vh_-_64px)] snap-start'>
-    <h1 className='text-5xl font-medium'>Portfolio</h1>
+    <h1 className='sm:text-2xl md:text-3xl  lg:text-4xl xl:text-5xl font-medium'>Portfolio</h1>
     <ul className='m-2 p-0 list-none flex'>
       {list.map(item => {
 

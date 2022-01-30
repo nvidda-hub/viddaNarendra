@@ -18,10 +18,10 @@ function Intro() {
   return <div id="intro" className='flex bg-white w-screen h-[calc(100vh_-_64px)] snap-start'>
     
     {/* left part of intro */}
-    <div className='flex-1'>
+    <div className='flex-1 sm:ml-6 sm:mt-40 md:ml-8 md:mt-24 lg:ml-10 lg:mt-16 xl:ml-12 xl:mt-[36px]'>
       <div className='intro-left-xl-and-beyond '>
         <img 
-          className='sm:h-[250px] md:h-[320px] lg:h-[400px] xl:h-[500px]'
+          className='sm:h-[300px] md:h-[400px] lg:h-[480px] xl:h-[500px]'
           src='images/vidda_2.png' 
           alt=''
         />

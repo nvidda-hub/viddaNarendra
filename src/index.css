@@ -1,33 +1,58 @@
 @tailwind base;
 @tailwind components;
 
-/* for left part of intro */
-@screen xl{
-  .intro-left-xl-and-beyond{
-    @apply flex bg-rose-600 rounded-full w-[700px] h-[700px] items-end justify-center float-left py-6 my-60;
-  }
-  
-
-  
-}
 
 @screen sm{
   .intro-left-xl-and-beyond{
-    @apply flex bg-rose-600 rounded-full w-[300px] h-[300px] items-end justify-center float-left py-6 my-60;
+    @apply flex bg-rose-600 rounded-full w-[300px] h-[300px] items-end justify-center float-left;
   }
+  .portfolio_list{
+    @apply text-[12px] rounded-lg cursor-pointer mx-[2px] p-1;
+  }
+  .portfolio_items{
+    @apply w-[120px] h-[100px]  my-3 mx-3;
+  }
+  
 }
 
 @screen md{
   .intro-left-xl-and-beyond{
-    @apply flex bg-rose-600 rounded-full w-[400px] h-[400px] items-end justify-center float-left py-6 my-60;
+    @apply flex bg-rose-600 rounded-full w-[400px] h-[400px] items-end justify-center float-left;
+  }
+  .portfolio_list{
+    @apply text-[12px] rounded-lg cursor-pointer mx-[2px] p-1;
+  }
+  .portfolio_items{
+    @apply w-[160px] h-[140px]  my-3 mx-2;
   }
 }
 
 @screen lg{
   .intro-left-xl-and-beyond{
-    @apply flex bg-rose-600 rounded-full w-[500px] h-[500px] items-end justify-center float-left py-6 my-60;
+    @apply flex bg-rose-600 rounded-full w-[500px] h-[500px] items-end justify-center float-left;
+  }
+  
+  .portfolio_list{
+    @apply text-[12px] rounded-lg cursor-pointer mx-[1px] p-1.5;
+  }
+  .portfolio_items{
+    @apply w-[200px] h-[160px]  my-3 mx-3;
   }
 }
+
+
+@screen xl{
+  .intro-left-xl-and-beyond{
+    @apply flex bg-rose-600 rounded-full w-[550px] h-[550px] items-end justify-center float-left;
+  }
+  .portfolio_list{
+    @apply text-[14px] rounded-lg cursor-pointer mx-[2px] p-2;
+  }
+  .portfolio_items{
+    @apply w-[240px] h-[180px]  my-4 mx-5;
+  }
+}
+
 
 @tailwind utilities;
 
