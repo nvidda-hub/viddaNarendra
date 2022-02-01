@@ -7,7 +7,7 @@ function PortfolioItems({itemDetail}) {
         src={itemDetail.img}
         alt=''
     />
-    <h3 className='text-xl absolute'>{itemDetail.title}</h3>
+    <h3 className='text-xl absolute mx-3'>{itemDetail.title}</h3>
 </div>;
 }
 

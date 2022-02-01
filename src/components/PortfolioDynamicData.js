@@ -1,47 +1,37 @@
 export const featuredPortfolio = [
     {
       id: 1,
-      title: "Social Media App",
-      img:
-        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKvdHn8GmPGCO0y3SJqNHACygpm0h9VycMHg&usqp=CAU",
+      title: "Whatsapp-clone using MERN Stack",
+      img: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/WhatsApp.svg/640px-WhatsApp.svg.png",
+      link:"https://github.com/nvidda-hub/whatsapp-clone-front-backend",
     },
     {
       id: 2,
-      title: "Rampa UI Design",
-      img:
-        "https://cdn.dribbble.com/users/702789/screenshots/15054318/media/4ea5d492b7b07eebc9528ff960794879.png?compress=1&resize=1200x900",
-    },
+      title: "Amazon-clone using MERN Stack",
+      img: "https://ichef.bbci.co.uk/news/976/cpsprodpb/306B/production/_118559321_hi063112836.jpg",
+      link:"https://github.com/nvidda-hub/amazon-clone-in-react-js",
+      },
     {
       id: 3,
-      title: "E-commerce Web Design",
-      img:
-        "https://cdn.dribbble.com/users/1387827/screenshots/15466426/media/deb2dca6762cd3610321c98bfccb0b72.png?compress=1&resize=1200x900",
+      title: "E-Commerce Shopping Webpage using Django",
+      img: "https://github.com/geekyshow1/shoppinglyx/raw/main/Screenshots/Home.jpeg",
+      link:"https://bitbucket.org/narendraVidda/sample_shop_website/src/master/",
     },
     {
       id: 4,
-      title: "Relax Mobile App",
-      img:
-        "https://cdn.dribbble.com/users/4095861/screenshots/15467417/media/d6a15c416626f12b31fa5ca1db192572.png?compress=1&resize=1200x900",
+      title: "Voice Assistant",
+      img: "https://nvidda-hub.github.io/NarendraVidda/voice_assistant_image.jpg",
+      link:"https://github.com/nvidda-hub/voice-assistant",
     },
-    {
-      id: 5,
-      title: "Hero Web Design",
-      img:
-        "https://cdn.dribbble.com/users/5031392/screenshots/15467520/media/c36b3b15b25b1e190d081abdbbf947cf.png?compress=1&resize=1200x900",
-    },
-    {
-      id: 6,
-      title: "Banking App",
-      img:
-        "https://cdn.dribbble.com/users/3307260/screenshots/15468444/media/447b4501f7a145b05e11c70199a9c417.jpg?compress=1&resize=1200x900",
-    },
+    
   ];
   
   export const webPortfolio = [
     {
       id: 1,
-      title: "Web Social Media App",
-      img: "https://cdn.dribbble.com/users/5031392/screenshots/15467520/media/c36b3b15b25b1e190d081abdbbf947cf.png?compress=1&resize=1200x900",
+      title: "Text Utility using Django",
+      img: "https://api.codewithharry.com/media/videoSeriesFiles/courseFiles/python-django-tutorials-hindi-15/base64.png",
+      link:"https://github.com/nvidda-hub/TextUtility",
     },
     {
       id: 2,
