@@ -4,9 +4,9 @@ import PortfolioList from './PortfolioList';
 import {  
         featuredPortfolio,
         webPortfolio,
-        whatsappPortfolio,
-        amazonPortfolio,
-        djangoECommercePortfolio
+        skills,
+        Extra_curricular,
+        Hobbies
 } from "./PortfolioDynamicData";
 
 function Portfolio() {
@@ -24,20 +24,16 @@ function Portfolio() {
                     title:"Web Apps"
                   },
                   {
-                    id:"w_clone",
-                    title:"WhatsApp Clone using MERN Stack"
+                    id:"skills",
+                    title:"Skills"
                   },
                   {
-                    id:"a_clone",
-                    title:"Amazon Clone using MERN Stack"
+                    id:"extra_curricular",
+                    title:"Scholastic and Extra Curricular"
                   },
                   {
-                    id:"voice_assistant",
-                    title:"Voice Assistant using Python"
-                  },
-                  {
-                    id:"e_com_django",
-                    title:"E-Commerce Webpage Using Django"
+                    id:"hobbies",
+                    title:"Hobbies"
                   },
             ]
 
@@ -52,20 +48,16 @@ function Portfolio() {
         setData(webPortfolio);
         break;
       
-      case "w_clone":
-        setData(whatsappPortfolio);
+      case "skills":
+        setData(skills);
         break;
       
-      case "a_clone":
-        setData(amazonPortfolio);
+      case "extra_curricular":
+        setData(Extra_curricular);
         break;
       
-      case "voice_assistant":
-        setData(amazonPortfolio);
-        break;
-      
-      case "e_com_django":
-        setData(djangoECommercePortfolio);
+      case "hobbies":
+        setData(Hobbies);
         break;
       
       

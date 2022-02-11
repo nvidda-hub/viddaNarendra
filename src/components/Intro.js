@@ -11,7 +11,7 @@ function Intro() {
      showCursor:true,
      backSpeed:60,
      backDelay:1500,
-     strings:["MERN Stack", "TailwindCSS", "Python", "Django", "Flask", "Nginx", "uWSGI"]
+     strings:["MERN Stack", "TailwindCSS", "Python", "Django", "Django Rest Framework", "Flask", "Nginx", "uWSGI"]
    });
   }, [])
 

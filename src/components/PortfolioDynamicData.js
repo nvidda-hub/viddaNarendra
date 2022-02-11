@@ -35,145 +35,96 @@ export const featuredPortfolio = [
     },
     {
       id: 2,
-      title: "Web Rampa UI Design",
-      img: "https://cdn.dribbble.com/users/3967258/screenshots/15463803/media/4fddb9a2caf3b3bd634060f706a91e73.png?compress=1&resize=1200x900",
-    },
-    {
-      id: 3,
-      title: "Web E-commerce Design",
-      img: "https://cdn.dribbble.com/users/3637068/screenshots/15467010/media/69a3279182b75365013fe285733d1122.png?compress=1&resize=1200x900",
-    },
-    {
-      id: 4,
-      title: "Web Relax App",
-      img: "https://cdn.dribbble.com/users/2264844/screenshots/15463998/media/d85e92a332c41094f68e1f716884f7ce.jpg?compress=1&resize=1200x900",
-    },
-    {
-      id: 5,
-      title: "Web Design",
-      img: "https://cdn.dribbble.com/users/387658/screenshots/15458608/media/e92ec1dd33dd1170ae3dc9c5272f2693.jpg?compress=1&resize=1200x900",
-    },
-    {
-      id: 6,
-      title: "Web Banking App",
-      img: "https://cdn.dribbble.com/users/6384483/screenshots/15468426/media/ce9479fa1f8dba3a4a49840d76e55e31.png?compress=1&resize=1200x900",
+      title: "Django E-Commerce",
+      img: "https://i.ytimg.com/vi/9AHbqiBIF_A/maxresdefault.jpg",
     },
   ];
   
-  export const whatsappPortfolio = [
+  export const skills = [
     {
       id: 1,
-      title: "Mobile Social Media App",
+      title: "Python3",
       img:
-        "https://cdn.dribbble.com/users/2597268/screenshots/15468893/media/44313553d73ba41580f1df69749bba28.jpg?compress=1&resize=1200x900",
+        "https://cdn.thenewstack.io/media/2021/11/ab06a958-pythonlogo.png",
     },
     {
       id: 2,
-      title: "Mobile Rampa UI Design",
+      title: "django Framework",
       img:
-        "https://cdn.dribbble.com/users/5920881/screenshots/15463142/media/b5a460223798bd85d835710806e2f3dd.png?compress=1&resize=1200x900",
+        "https://djangocentral.com/wp-content/uploads/2019/03/New-Project-13.png",
     },
     {
       id: 3,
-      title: "Mobile E-commerce Design",
+      title: "DRF",
       img:
-        "https://cdn.dribbble.com/users/1998175/screenshots/15459384/media/48ac2b43ebe81ba0866afea1383cc939.png?compress=1&resize=1200x900",
+        "https://storage.caktusgroup.com/media/blog-images/drf-logo2.png",
     },
     {
       id: 4,
-      title: "Mobile Relax App",
+      title: "MERN Stack",
       img:
-        "https://cdn.dribbble.com/users/2083704/screenshots/15468619/media/cd958306c7a772449e1ac23bd65ce506.png?compress=1&resize=1200x900",
+        "https://codingthesmartway.com/wp-content/uploads/2019/01/mern_logo.png",
     },
     {
       id: 5,
-      title: "Mobile Hero Design",
+      title: "TailwindCSS",
       img:
-        "https://cdn.dribbble.com/users/26642/screenshots/15462545/media/1a202ef5c8338b6f78634e6edc1ba350.png?compress=1&resize=1200x900",
+        "https://yt3.ggpht.com/ikv41jMTr1uHGdILrJhvbfVJcDt4oqhwApKX37TjAleF_cRPbF2W-waj7uMnS5JySvnlvAlTCg=s900-c-k-c0x00ffffff-no-rj",
     },
     {
       id: 6,
-      title: "Mobile Banking App",
+      title: "GIT",
       img:
-        "https://149366088.v2.pressablecdn.com/wp-content/uploads/2017/06/ubuntu-amazon-web-app.png",
+        "https://www.hostinger.com/tutorials/wp-content/uploads/sites/2/2017/03/git-1.png",
     },
   ];
   
-  export const amazonPortfolio = [
+  
+  export const Extra_curricular = [
     {
       id: 1,
-      title: "Design Social Media App",
+      title: "LeetCode 350+ problem",
       img:
-        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKvdHn8GmPGCO0y3SJqNHACygpm0h9VycMHg&usqp=CAU",
+        "https://leetcode.com/static/images/LeetCode_Sharing.png",
     },
     {
       id: 2,
-      title: "Design Rampa UI Design",
+      title: "Hacker Rank 100+ problems",
       img:
-        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKvdHn8GmPGCO0y3SJqNHACygpm0h9VycMHg&usqp=CAU",
+        "https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png",
     },
     {
       id: 3,
-      title: "Design E-commerce Web Design",
+      title: "Nominated for Academic Excellence Award IITK",
       img:
-        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKvdHn8GmPGCO0y3SJqNHACygpm0h9VycMHg&usqp=CAU",
+        "https://image.shutterstock.com/image-illustration/text-sign-showing-nominations-conceptual-260nw-1378864538.jpg",
     },
     {
       id: 4,
-      title: "Design Relax Mobile App",
+      title: "Won iPad in MTT Poker @IITK",
       img:
-        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKvdHn8GmPGCO0y3SJqNHACygpm0h9VycMHg&usqp=CAU",
-    },
-    {
-      id: 5,
-      title: "Design Keser Web Design",
-      img:
-        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKvdHn8GmPGCO0y3SJqNHACygpm0h9VycMHg&usqp=CAU",
-    },
-    {
-      id: 6,
-      title: "Design Banking App",
-      img:
-        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKvdHn8GmPGCO0y3SJqNHACygpm0h9VycMHg&usqp=CAU",
+        "https://i.insider.com/604bd1bd10c8760018b9305d?width=1136&format=jpeg",
     },
   ];
-  
-  export const djangoECommercePortfolio = [
+
+  export const Hobbies = [
     {
       id: 1,
-      title: "Content Social Media App",
+      title: "Coding",
       img:
-        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKvdHn8GmPGCO0y3SJqNHACygpm0h9VycMHg&usqp=CAU",
+        "https://cdn.shopify.com/s/files/1/0306/6419/6141/articles/coding_languages_1024x.png?v=1619126283",
     },
     {
       id: 2,
-      title: "Content Rampa UI Design",
+      title: "Solving Rubik Cube",
       img:
-        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKvdHn8GmPGCO0y3SJqNHACygpm0h9VycMHg&usqp=CAU",
+        "https://images.unsplash.com/photo-1562975327-29a8cbfd5be6?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1000&q=80",
     },
     {
       id: 3,
-      title: "Content E-commerce Web Design",
+      title: "Poker",
       img:
-        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKvdHn8GmPGCO0y3SJqNHACygpm0h9VycMHg&usqp=CAU",
-    },
-    {
-      id: 4,
-      title: "Content Relax Mobile App",
-      img:
-        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKvdHn8GmPGCO0y3SJqNHACygpm0h9VycMHg&usqp=CAU",
-    },
-    {
-      id: 5,
-      title: "Content Keser Web Design",
-      img:
-        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKvdHn8GmPGCO0y3SJqNHACygpm0h9VycMHg&usqp=CAU",
-    },
-    {
-      id: 6,
-      title: "Content Banking App",
-      img:
-        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKvdHn8GmPGCO0y3SJqNHACygpm0h9VycMHg&usqp=CAU",
+        "https://images.ctfassets.net/3s5io6mnxfqz/3M0WjItrnH8qVbltiL10nh/05aa8a45a6a33b1740b8c8a97157b0ab/types-of-poker-explained.jpeg?fm=jpg&w=900&fl=progressive",
     },
   ];
   
