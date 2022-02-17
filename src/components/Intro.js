@@ -22,7 +22,7 @@ function Intro() {
       <div className='intro-left-xl-and-beyond '>
         <img 
           className='sm:h-[300px] md:h-[400px] lg:h-[480px] xl:h-[500px]'
-          src='images/vidda_2.png' 
+          src='images/vidda_2.png'
           alt=''
         />
       </div>

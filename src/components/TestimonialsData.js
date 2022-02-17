@@ -1,13 +1,13 @@
 export const TestimonialsData = [
     {
       id: 1,
-      name: "Tom Durden",
-      title: "Senior Developer",
+      name: "Charan Pradbhu Monkey",
+      title: "Web Developer",
       img:
         "https://images.pexels.com/photos/1680172/pexels-photo-1680172.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
         icon: "images/linkedin.png",
       desc:
-        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat magnam dolorem.",
+        "First he plan the task and then clear them out. Most helful guy and always ready to help.",
       featured: false,
       },
     {
