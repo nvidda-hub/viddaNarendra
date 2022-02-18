@@ -16,6 +16,6 @@ Step 3
 
 Step 4
 "predeploy": "npm run build",
-"deploy": "gh-pages -d build",
+"deploy":"gh-pages -b master -d build",
 
 ▶️ npm run deploy
