@@ -1,4 +1,0 @@
-make snap scroll smooth
-make the transition smooth when clicking menu
-make ityped cursor blink and red
-make slider transition smooth
