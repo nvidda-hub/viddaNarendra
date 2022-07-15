@@ -12,7 +12,7 @@ function Contact() {
   return <div id="contact" className='bg-white flex snap-start'>
       <div className='flex-1 overflow-hidden'>
         <img 
-          src='images/shake.svg'
+          src='https://lh5.googleusercontent.com/Lu8gt0cbT_B5cZE5hx1q93SBR3hieoLPCgmDXqotT8QGYNBQLy6V0hN7cPN9thSOKS4=w2400'
           alt=''
           className='h-full'
         />

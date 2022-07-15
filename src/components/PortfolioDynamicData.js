@@ -51,7 +51,7 @@ export const featuredPortfolio = [
       id: 2,
       title: "django Framework",
       img:
-        "https://djangocentral.com/wp-content/uploads/2019/03/New-Project-13.png",
+        "https://cops-iitbhu.github.io/csoc-2020-dev-resources/CSOC%202020%20Dev%200f384f652ab2462f9102d59f6a747cd5/Topics%20for%20Week%202%202ed92762029e48c7b62b57725630c86b/Django%20694f4833ff194b0e8b0584030c6406d9/django-dark.width-808.png",
     },
     {
       id: 3,

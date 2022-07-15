@@ -57,10 +57,10 @@ function Work() {
       </div>
 
       {/* left arrow */}
-      <img src='images/arrow.png'alt='' className='cursor-pointer sm:h-[28px] md:h-[40px] lg:h-[50px] absolute sm:left-[40px] md:left-[60px] lg:left-[100px] rotate-180' onClick={() => handleClick("left")}/>
+      <img src='https://lh5.googleusercontent.com/4tOWagw-Epop0g0oqGkvRR63T7Otwpc3qPcOMwc11UczyxTqRK7KkGZT4fB5S2QC6bM=w2400' alt='' className='cursor-pointer sm:h-[28px] md:h-[40px] lg:h-[50px] absolute sm:left-[40px] md:left-[60px] lg:left-[100px] rotate-180' onClick={() => handleClick("left")}/>
 
       {/* right arrow */}
-      <img src='images/arrow.png 'alt='' className='cursor-pointer sm:h-[28px] md:h-[40px] lg:h-[50px] absolute sm:right-[40px] md:right-[60px] lg:right-[100px] ' onClick={() => handleClick()}/>
+      <img src='https://lh5.googleusercontent.com/4tOWagw-Epop0g0oqGkvRR63T7Otwpc3qPcOMwc11UczyxTqRK7KkGZT4fB5S2QC6bM=w2400' alt='' className='cursor-pointer sm:h-[28px] md:h-[40px] lg:h-[50px] absolute sm:right-[40px] md:right-[60px] lg:right-[100px] ' onClick={() => handleClick()}/>
       
     </div>;
 }

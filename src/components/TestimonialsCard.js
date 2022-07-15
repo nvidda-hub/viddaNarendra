@@ -7,7 +7,7 @@ function TestimonialsCard({name, title, desc, img, icon, featured}) {
           <div className='md:mx-3 lg:mx-4 flex items-center justify-center'>
 
             {/* left */}
-            <img className='sm:h-[14px] md:h-[20px] lg:h-[25px]' src='images/right-arrow.png' alt=''/>
+            <img className='sm:h-[14px] md:h-[20px] lg:h-[25px]' src='https://lh5.googleusercontent.com/fp3Wca308AGN5kxW-cHp0_bAXDmY-P2ZbByLDIQp7YsECOmSrd3C3Bc-J3aUKsS14ns=w2400' alt=''/>
             <img className="sm:mx-2 md:mx-4 lg:mx-8 sm:h-[36px] md:h-[48px] lg:h-[60px] sm:w-[36px] md:w-[48px] lg:w-[60px] rounded-[50%] object-cover" src={img} alt=''/>
             <img className='sm:h-[14px] md:h-[20px] lg:h-[25px]' src={icon} alt=''/>
           </div>
