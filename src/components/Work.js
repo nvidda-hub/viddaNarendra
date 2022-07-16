@@ -36,7 +36,7 @@ function Work() {
               </div>
               <h2 className='sm:text-[15px] lg:text-[18px] xl:text-[20px] font-semibold'>{d.title}</h2>
               <p className='text-[13px]'>{d.desc}</p>
-              <span className='text-xl font-[600] cursor-pointer underline decoration-1'>Projects</span>
+              <span className='text-xl font-[600] cursor-pointer underline decoration-1'> <a href={d.link} target='_blank'> Git Repository link </a></span>
             </div>
 
           </div>
@@ -45,9 +45,9 @@ function Work() {
         {/* right */}
         <div className='flex-[8] h-full flex items-center justify-center'>
           <img 
-            src='https://res.cloudinary.com/practicaldev/image/fetch/s--1Udov0n---/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://dev-to-uploads.s3.amazonaws.com/i/d9taiqwp0968js9hcn5u.png'
+            src={d.img}
             alt=''
-            className='sm:w-[240px] md:w-[320px] lg:w-[400px] -rotate-12'
+            className='sm:w-[180px] md:w-[320px] lg:w-[400px] -rotate-12'
           />
         </div>
       </div>
