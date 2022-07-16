@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/viddaNarendra/static/css/main.1fcf98df.css",
+    "main.js": "/viddaNarendra/static/js/main.cbd38a1f.js",
+    "static/js/787.63b66128.chunk.js": "/viddaNarendra/static/js/787.63b66128.chunk.js",
+    "index.html": "/viddaNarendra/index.html",
+    "main.1fcf98df.css.map": "/viddaNarendra/static/css/main.1fcf98df.css.map",
+    "main.cbd38a1f.js.map": "/viddaNarendra/static/js/main.cbd38a1f.js.map",
+    "787.63b66128.chunk.js.map": "/viddaNarendra/static/js/787.63b66128.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1fcf98df.css",
+    "static/js/main.cbd38a1f.js"
+  ]
+}
