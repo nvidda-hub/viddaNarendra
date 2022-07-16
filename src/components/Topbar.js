@@ -11,7 +11,7 @@ function Topbar({menuOpen, setMenuOpen}) {
 
         {/* left topbar */}
         <div className='flex items-center'>
-          <a href='#intro' className='text-4xl font-semibold mr-10'>Vidda</a>
+          <a href='#intro' className='text-4xl font-semibold mr-10'>Welcome</a>
           <div className='flex items-center ml-7'>
             <PersonIcon className='text-3xl mr-1'/>
             <span className='text-xs font-medium'>+91 88511 41572</span>
